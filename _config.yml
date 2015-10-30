@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /My-New-Data-Science-Blog
+exclude: ['README.md']
